@@ -1,5 +1,5 @@
 
-    var quiztitle = "";
+  var quiztitle = "";
 
     var quiz = [
         {
@@ -37,30 +37,6 @@
                                 ],
             "correct"       :   "Entre 70 % et 90 %",
             "explanation"   :   "73 % des primo-demandeurs d’asile ressortissants de pays tiers en UE sont des hommes. (Source: Eurostat)",
-        },
-        {
-             "question"      :   "Combien de réfugiés la France a-t-elle accueilli dans le cadre des accords européens de relocalisation d'urgence de septembre 2015?",
-            "image"         :   "",
-            "choices"       :   [
-                                    "Moins de 3 000",
-                                    "Entre 3 000 et 6 000",
-                                    "Entre 6 000 et 10 000",
-                                    "Plus de 10 000"
-                                ],
-            "correct"       :   "Entre 3 000 et 6 000",
-            "explanation"   :   "En date du 22 mars 2017, la France a accueilli 5 490 réfugiés dans le cadre de ces accords, dont 2 476 qui étaient arrivés par la Grèce et 282 par l'Italie. Il reste donc à la France à accueillir 16 956 réfugiés pour respecter les quotas européens d'ici fin 2017. (Source: Commission européenne)",
-        },
-         {
-            "question"      :   "Combien touchent les passeurs pour une traversée de la Méditerranée ?",
-            "image"         :   "",
-            "choices"       :   [
-                                    "Moins de 100 €",
-                                    "Entre 100 € et 700 €",
-                                    "Entre 700 € et 2 000 €",
-                                    "Plus de 2 000 €"
-                                ],
-            "correct"       :   "Entre 700 € et 2 000 €",
-            "explanation"   :   "Les passeurs touchent entre 700 € et 2 000 € pour une traversée de la Méditerranée, dans des conditions pourtant désastreuses puisque le gilet de sauvetage est en option (170 €) ainsi que le téléphone portable (250 € le coup de fil). (Source: vidéo Data Gueule)",
         },
 
     ];
